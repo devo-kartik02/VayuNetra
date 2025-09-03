@@ -11,6 +11,15 @@ A comprehensive air quality monitoring system with AI-powered image analysis and
 - **Historical Data Tracking**: Export sensor data to CSV for analysis
 - **Multi-sensor Integration**: Combines particulate matter and gas concentration measurements
 
+📸 **Screenshots**  
+<p align="center">
+  <img src="assets/dashboard.png" alt="Dashboard Screenshot" width="700"/>  
+  <img src="assets/ai-analysis.png" alt="AI Image Analysis Screenshot" width="700"/>  
+  <img src="assets/sensor-data.png" alt="Sensor Data Screenshot" width="700"/>  
+</p>
+
+---
+
 ## 🏗️ System Architecture
 
 ### Backend (FastAPI + PyTorch)
