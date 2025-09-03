@@ -148,7 +148,7 @@ python sensor_data.py
 ## 📁 Project Structure
 
 ```
-envra_2.0-frontend/
+VayuNetra/
 ├── public/                    # Static assets
 ├── src/
 │   ├── components/           # Reusable React components
