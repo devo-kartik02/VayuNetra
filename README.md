@@ -21,6 +21,7 @@ A comprehensive air quality monitoring system with AI-powered image analysis and
   <img width="1899" height="928" alt="Air Quality Prediction" src="https://github.com/user-attachments/assets/440110fd-74b0-4771-b47c-b0128808808c" />
   <img width="1894" height="929" alt="Air Quality Monitoring" src="https://github.com/user-attachments/assets/9908380a-2aa4-458f-80e7-e8f0b9d33327" />
   <img width="1899" height="929" alt="Sensors" src="https://github.com/user-attachments/assets/bb3b481d-09a5-468e-b4fb-2e6ad32abeda" />
+  <img width="1899" height="929" alt="Sensors Img" src="https://github.com/user-attachments/assets/5c573238-722d-44d0-bba9-83de34c4ee5b" />
   <img width="1897" height="930" alt="Screenshot 2025-09-03 231758" src="https://github.com/user-attachments/assets/b0031048-df2b-414f-b9aa-32315a7bdf79" />
   <img width="1898" height="927" alt="Plant Store" src="https://github.com/user-attachments/assets/faf002c7-2f5c-400f-8dc9-c2a2a8bf53db" />
   <img width="1897" height="927" alt="Screenshot 2025-09-03 231945" src="https://github.com/user-attachments/assets/c467f03a-9924-4ee7-80ef-cc4352d34079" />
