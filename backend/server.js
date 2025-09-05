@@ -6,7 +6,7 @@ app.use(cors());
 app.use(express.json());
 
 // 🔑 Replace with your Google AI API Key
-const API_KEY = "AIzaSyAPqJn0wK5q7dAf2AvyjCo7y38NTo61fi4";
+const API_KEY = "o61fi4AIzaSyAPqJn0wK5q7dAf2AvyjCo7y38NT";
 
 // Chatbot API route
 app.post("/api/chatbot", async (req, res) => {
